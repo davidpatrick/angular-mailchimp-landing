@@ -1,0 +1,19 @@
+{
+  "name": "my-landing-page",
+  "version": "0.0.0",
+  "authors": [
+    "David Patrick <dpatrick@lightspeedsystems.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-mailchimp": "*",
+    "angular": "~1.3.5"
+  }
+}
